@@ -14,6 +14,7 @@
                 "BACURI",
                 "BANANA",
                 "CAJA",
+                "TANGERINA",
                 "CAJU",
                 "CARAMBOLA",
                 "CUPUACU",
